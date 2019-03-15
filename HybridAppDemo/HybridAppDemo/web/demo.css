@@ -1,0 +1,15 @@
+.btn_demo{
+    background: green;
+    width: 30rem;
+    height: 10rem;
+    font-size: 3rem;
+    color: beige;
+    display: block;
+    margin: auto;
+    margin-top : 10rem;
+}
+
+
+body{
+    background: palegoldenrod;
+}
