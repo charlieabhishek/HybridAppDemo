@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "HybridAppDemo/ViewController.swift"
+            timestampString = "575224574.539202"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HybridAppDemo.ViewController.webView.getter : Swift.Optional&lt;__C.WKWebView&gt;"
+                  moduleName = "HybridAppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhishekkumar/Documents/GitHub/HybridAppDemo/HybridAppDemo/HybridAppDemo/ViewController.swift"
+                  timestampString = "575221813.912683"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HybridAppDemo.ViewController.webView.setter : Swift.Optional&lt;__C.WKWebView&gt;"
+                  moduleName = "HybridAppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhishekkumar/Documents/GitHub/HybridAppDemo/HybridAppDemo/HybridAppDemo/ViewController.swift"
+                  timestampString = "575221813.9179471"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HybridAppDemo.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; HybridAppDemo.ViewController"
+                  moduleName = "HybridAppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhishekkumar/Documents/GitHub/HybridAppDemo/HybridAppDemo/HybridAppDemo/ViewController.swift"
+                  timestampString = "575221813.921167"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "HybridAppDemo.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;HybridAppDemo.ViewController&gt;"
+                  moduleName = "HybridAppDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/abhishekkumar/Documents/GitHub/HybridAppDemo/HybridAppDemo/HybridAppDemo/ViewController.swift"
+                  timestampString = "575221813.923838"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
