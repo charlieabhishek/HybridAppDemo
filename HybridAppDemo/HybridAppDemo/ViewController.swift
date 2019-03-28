@@ -14,18 +14,6 @@ class ViewController: UIViewController, WKScriptMessageHandler, WKNavigationDele
     
     var webView: WKWebView!
     
-//    override func loadView() {
-//        super.loadView()
-//
-//        let contentController = WKUserContentController()
-//        contentController.add(self, name: "callback")
-//
-//        let config = WKWebViewConfiguration()
-//        config.userContentController = contentController
-//
-//        webView = WKWebView(frame: view.frame, configuration: config)
-//    }
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         let contentController = WKUserContentController()
@@ -61,7 +49,7 @@ class ViewController: UIViewController, WKScriptMessageHandler, WKNavigationDele
     }
     
     func sendToJavaScript(name:String,age:Int){
-        webView.evaluateJavaScript("callJSFunc()", completionHandler: nil)
+        webView.evaluateJavaScript("javascipt:callJSFunc('\(name)')", completionHandler: nil)
     }
 }
 

@@ -12,10 +12,5 @@ app.controller('demoCtrl', function ($scope) {
        } catch(err) {
          console.log('Can not reach native code');
        }
-   };
-
-function callJSFunc(){
-      console.log("callJSFunc called");
-  };
-               
+   };               
 });
